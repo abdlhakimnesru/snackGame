@@ -1,8 +1,6 @@
 
-.SnackGame{
-    text-align: center;
-}
-.canvas{
+
+#gameCanvas{
     align-items: center;
     background-color: black;
 }
